@@ -30,9 +30,9 @@ An intelligent, autonomous QA agent capable of constructing a "testing brain" fr
     Create a `.env` file in the root directory:
     ```env
     GEMINI_API_KEY=your_gemini_api_key
-    # Optional for cloud storage
-    # QDRANT_URL=your_qdrant_url
-    # QDRANT_API_KEY=your_qdrant_api_key
+    #  cloud storage
+    QDRANT_URL=your_qdrant_url
+    QDRANT_API_KEY=your_qdrant_api_key
     ```
 
 ## Usage
