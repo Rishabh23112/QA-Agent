@@ -13,7 +13,7 @@ An intelligent, autonomous QA agent capable of constructing a "testing brain" fr
 ### Prerequisites
 - Python 3.9+
 - Google Gemini API Key
-- (Optional) Qdrant Cloud URL/Key (defaults to in-memory for local use)
+- Qdrant Cloud URL/Key
 
 ### Installation
 1.  Clone the repository.
